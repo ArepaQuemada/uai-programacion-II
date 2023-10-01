@@ -1,0 +1,16 @@
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\bin\Debug\net6.0-windows\TP5_Pilas.exe
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\bin\Debug\net6.0-windows\TP5_Pilas.deps.json
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\bin\Debug\net6.0-windows\TP5_Pilas.runtimeconfig.json
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\bin\Debug\net6.0-windows\TP5_Pilas.dll
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\bin\Debug\net6.0-windows\TP5_Pilas.pdb
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.Form1.resources
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.csproj.GenerateResource.cache
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.AssemblyInfoInputs.cache
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.AssemblyInfo.cs
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.dll
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\refint\TP5_Pilas.dll
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.pdb
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\TP5_Pilas.genruntimeconfig.cache
+C:\Users\54116\source\repos\TP5\TP5_Pilas\TP5_Pilas\obj\Debug\net6.0-windows\ref\TP5_Pilas.dll

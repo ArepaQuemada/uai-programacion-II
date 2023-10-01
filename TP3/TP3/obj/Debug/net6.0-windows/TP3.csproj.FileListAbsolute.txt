@@ -1,0 +1,16 @@
+C:\Users\54116\source\repos\TP3\TP3\bin\Debug\net6.0-windows\TP3.exe
+C:\Users\54116\source\repos\TP3\TP3\bin\Debug\net6.0-windows\TP3.deps.json
+C:\Users\54116\source\repos\TP3\TP3\bin\Debug\net6.0-windows\TP3.runtimeconfig.json
+C:\Users\54116\source\repos\TP3\TP3\bin\Debug\net6.0-windows\TP3.dll
+C:\Users\54116\source\repos\TP3\TP3\bin\Debug\net6.0-windows\TP3.pdb
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.Form1.resources
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.csproj.GenerateResource.cache
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.AssemblyInfoInputs.cache
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.AssemblyInfo.cs
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.dll
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\refint\TP3.dll
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.pdb
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\TP3.genruntimeconfig.cache
+C:\Users\54116\source\repos\TP3\TP3\obj\Debug\net6.0-windows\ref\TP3.dll
